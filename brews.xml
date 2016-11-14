@@ -1,0 +1,1568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RECIPES>
+  <RECIPE>
+    <AUTONR>1</AUTONR>
+    <NAME>Get rid of old hops IPA</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>All Grain</TYPE>
+    <STYLE>
+      <NAME>Amerikaanse IPA</NAME>
+      <NOTES>Amerikaanse variant van de Engelse IPA. Zwaarder. bitterder en met meer hoparoma's dan de Britse tegenhanger. Sterk gehopt met Amerikaanse citrushoppen.</NOTES>
+      <VERSION>1</VERSION>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.055999994</OG_MIN>
+      <OG_MAX>1.075000048</OG_MAX>
+      <FG_MIN>1.00999999</FG_MIN>
+      <FG_MAX>1.018000007</FG_MAX>
+      <IBU_MIN>40</IBU_MIN>
+      <IBU_MAX>70</IBU_MAX>
+      <COLOR_MIN>6.178752899</COLOR_MIN>
+      <COLOR_MAX>11.76477814</COLOR_MAX>
+      <CARB_MIN>2</CARB_MIN>
+      <CARB_MAX>2.5</CARB_MAX>
+      <ABV_MIN>5.5</ABV_MIN>
+      <ABV_MAX>7.5</ABV_MAX>
+      <PROFILE>Gedomineerd door bitterheid en aroma's van Amerikaanse hopsoorten.</PROFILE>
+      <INGREDIENTS>Pale mout. Amerikaanse hopsoorten. cleane. Amerikaanse gist.</INGREDIENTS>
+      <EXAMPLES>Sierra Nevada Pale Ale.</EXAMPLES>
+      <DISPLAY_OG_MIN>1.056 SG</DISPLAY_OG_MIN>
+      <DISPLAY_OG_MAX>1.075 SG</DISPLAY_OG_MAX>
+      <DISPLAY_FG_MIN>1.010 SG</DISPLAY_FG_MIN>
+      <DISPLAY_FG_MAX>1.018 SG</DISPLAY_FG_MAX>
+      <DISPLAY_IBU_MIN>40 IBU</DISPLAY_IBU_MIN>
+      <DISPLAY_IBU_MAX>70 IBU</DISPLAY_IBU_MAX>
+      <DISPLAY_COLOR_MIN>15 EBC</DISPLAY_COLOR_MIN>
+      <DISPLAY_COLOR_MAX>30 EBC</DISPLAY_COLOR_MAX>
+      <DISPLAY_CARB_MIN>2.0 vol.</DISPLAY_CARB_MIN>
+      <DISPLAY_CARB_MAX>2.5 vol.</DISPLAY_CARB_MAX>
+      <DISPLAY_ABV_MIN>5.5 vol.%</DISPLAY_ABV_MIN>
+      <DISPLAY_ABV_MAX>7.5 vol.%</DISPLAY_ABV_MAX>
+      <OG_RANGE>1.056-1.075 SG</OG_RANGE>
+      <FG_RANGE>1.010-1.018 SG</FG_RANGE>
+      <IBU_RANGE>40-70 IBU</IBU_RANGE>
+      <CARB_RANGE>2.0-2.5 vol.</CARB_RANGE>
+      <COLOR_RANGE>6-12 EBC</COLOR_RANGE>
+      <ABV_RANGE>5.5-7.5 vol.%</ABV_RANGE>
+    </STYLE>
+    <EQUIPMENT>
+      <NAME>Lidl einkocher</NAME>
+      <VERSION>1</VERSION>
+      <BOIL_SIZE>25</BOIL_SIZE>
+      <BATCH_SIZE>22</BATCH_SIZE>
+      <TUN_VOLUME>30</TUN_VOLUME>
+      <TUN_WEIGHT>2</TUN_WEIGHT>
+      <TUN_SPECIFIC_HEAT>0.22</TUN_SPECIFIC_HEAT>
+      <TRUB_CHILLER_LOSS>4.5</TRUB_CHILLER_LOSS>
+      <EVAP_RATE>8</EVAP_RATE>
+      <BOIL_TIME>90</BOIL_TIME>
+      <CALC_BOIL_VOLUME>TRUE</CALC_BOIL_VOLUME>
+      <LAUTER_DEADSPACE>2</LAUTER_DEADSPACE>
+      <HOP_UTILIZATION>100</HOP_UTILIZATION>
+      <DISPLAY_BOIL_SIZE>25.0 l</DISPLAY_BOIL_SIZE>
+      <DISPLAY_BATCH_SIZE>22.0 l</DISPLAY_BATCH_SIZE>
+      <DISPLAY_TUN_VOLUME>30.0 l</DISPLAY_TUN_VOLUME>
+      <DISPLAY_TUN_WEIGHT>2.00 kg</DISPLAY_TUN_WEIGHT>
+      <DISPLAY_TRUB_CHILLER_LOSS>4.5 l</DISPLAY_TRUB_CHILLER_LOSS>
+      <DISPLAY_LAUTERDEADSPACE>2.0 l</DISPLAY_LAUTERDEADSPACE>
+      <LAUTER_VOLUME>20</LAUTER_VOLUME>
+      <KETTLE_VOLUME>27</KETTLE_VOLUME>
+      <TUN_MATERIAL>Aluminium</TUN_MATERIAL>
+      <TUN_HEIGHT>0.4</TUN_HEIGHT>
+      <KETTLE_HEIGHT>0.3</KETTLE_HEIGHT>
+      <LAUTER_HEIGHT>0.2</LAUTER_HEIGHT>
+      <MASH_VOLUME>18</MASH_VOLUME>
+      <EFFICIENCY>75</EFFICIENCY>
+      <ATTENUATION_FACTOR_YEAST>0.00825</ATTENUATION_FACTOR_YEAST>
+      <ATTENUATION_FACTOR_WATER_TO_GRAIN_RATIO>0.00817</ATTENUATION_FACTOR_WATER_TO_GRAIN_RATIO>
+      <ATTENUATION_FACTOR_TOTAL_MASH_TIME>0.00026</ATTENUATION_FACTOR_TOTAL_MASH_TIME>
+      <ATTENUATION_FACTOR_PERC_SIMPLE_SUGAR>0.00553</ATTENUATION_FACTOR_PERC_SIMPLE_SUGAR>
+      <ATTENUATION_FACTOR_CONSTANT>0.547</ATTENUATION_FACTOR_CONSTANT>
+    </EQUIPMENT>
+    <BATCH_SIZE>21</BATCH_SIZE>
+    <BOIL_SIZE>23</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>79</EFFICIENCY>
+    <HOPS>
+      <HOP>
+        <NAME>Willamette</NAME>
+        <NOTES>Mooie aromahop voor het aromatiseren van Amerikaanse en Engelse ales.
+Aroma: mild, grassig, bloemachtig, licht kruidig.</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.0105089681439841</AMOUNT>
+        <DISPLAY_AMOUNT>10.5 g</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>5.5</ALPHA>
+        <TIME>60</TIME>
+        <TYPE>Aroma</TYPE>
+        <FORM>Pellet</FORM>
+        <USE>First wort</USE>
+        <BETA>3.5</BETA>
+        <HSI>37.5</HSI>
+        <ORIGIN>V.S.</ORIGIN>
+        <SUBSTITUTES>Fuggle</SUBSTITUTES>
+        <HUMULENE>25</HUMULENE>
+        <CAROPHYLLENE>7.5</CAROPHYLLENE>
+        <COHUMULONE>32.5</COHUMULONE>
+        <MYRCENE>42.5</MYRCENE>
+        <DISPLAY_TIME>60 min.</DISPLAY_TIME>
+        <TOTAL_OIL>1.299999952</TOTAL_OIL>
+      </HOP>
+      <HOP>
+        <NAME>Cascade</NAME>
+        <NOTES>Klassieke Amerikaanse aromahop.
+Gebruik: Amerikaanse bieren
+Aroma: sterk kruidig. bloemig en grapefruit karakter.
+Substitutes: Centennial
+Voorbeelden: Sierra Nevada Pale Ale. Anchor Liberty Ale</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.0105089681439841</AMOUNT>
+        <DISPLAY_AMOUNT>10.5 g</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>5.5</ALPHA>
+        <TIME>60</TIME>
+        <TYPE>Both</TYPE>
+        <FORM>Pellet</FORM>
+        <USE>First wort</USE>
+        <BETA>6</BETA>
+        <HSI>50</HSI>
+        <ORIGIN>V.S.</ORIGIN>
+        <SUBSTITUTES>Centennial</SUBSTITUTES>
+        <HUMULENE>11.5</HUMULENE>
+        <CAROPHYLLENE>4.5</CAROPHYLLENE>
+        <COHUMULONE>36.5</COHUMULONE>
+        <MYRCENE>52.5</MYRCENE>
+        <DISPLAY_TIME>60 min.</DISPLAY_TIME>
+        <TOTAL_OIL>1.100000024</TOTAL_OIL>
+      </HOP>
+      <HOP>
+        <NAME>Chinook</NAME>
+        <NOTES>Sterke. breed toepasbare bitterhop.
+Gebruik: ales, porters, stouts
+Aroma: zwaar en kruidig aroma
+Voorbeelden: Sierra Nevada Stout, Sierra Nevada Celebration Ale</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.025</AMOUNT>
+        <DISPLAY_AMOUNT>25.0 g</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>13</ALPHA>
+        <TIME>30</TIME>
+        <TYPE>Bittering</TYPE>
+        <FORM>Pellet</FORM>
+        <USE>Boil</USE>
+        <BETA>3.599999905</BETA>
+        <HSI>33</HSI>
+        <ORIGIN>V.S.</ORIGIN>
+        <SUBSTITUTES>Galena. Eroica. Nugget. Bullion</SUBSTITUTES>
+        <HUMULENE>21.5</HUMULENE>
+        <CAROPHYLLENE>10</CAROPHYLLENE>
+        <COHUMULONE>32</COHUMULONE>
+        <MYRCENE>37.5</MYRCENE>
+        <DISPLAY_TIME>30 min.</DISPLAY_TIME>
+        <TOTAL_OIL>1.700000048</TOTAL_OIL>
+      </HOP>
+      <HOP>
+        <NAME>Cascade</NAME>
+        <NOTES>Klassieke Amerikaanse aromahop.
+Gebruik: Amerikaanse bieren
+Aroma: sterk kruidig. bloemig en grapefruit karakter.
+Substitutes: Centennial
+Voorbeelden: Sierra Nevada Pale Ale. Anchor Liberty Ale</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.01</AMOUNT>
+        <DISPLAY_AMOUNT>10.0 g</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>5.5</ALPHA>
+        <TIME>30</TIME>
+        <TYPE>Both</TYPE>
+        <FORM>Pellet</FORM>
+        <USE>Boil</USE>
+        <BETA>6</BETA>
+        <HSI>50</HSI>
+        <ORIGIN>V.S.</ORIGIN>
+        <SUBSTITUTES>Centennial</SUBSTITUTES>
+        <HUMULENE>11.5</HUMULENE>
+        <CAROPHYLLENE>4.5</CAROPHYLLENE>
+        <COHUMULONE>36.5</COHUMULONE>
+        <MYRCENE>52.5</MYRCENE>
+        <DISPLAY_TIME>30 min.</DISPLAY_TIME>
+        <TOTAL_OIL>1.100000024</TOTAL_OIL>
+      </HOP>
+      <HOP>
+        <NAME>Cascade</NAME>
+        <NOTES>Klassieke Amerikaanse aromahop.
+Gebruik: Amerikaanse bieren
+Aroma: sterk kruidig. bloemig en grapefruit karakter.
+Substitutes: Centennial
+Voorbeelden: Sierra Nevada Pale Ale. Anchor Liberty Ale</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.034</AMOUNT>
+        <DISPLAY_AMOUNT>34.0 g</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>5.5</ALPHA>
+        <TIME>10</TIME>
+        <TYPE>Both</TYPE>
+        <FORM>Pellet</FORM>
+        <USE>Boil</USE>
+        <BETA>6</BETA>
+        <HSI>50</HSI>
+        <ORIGIN>V.S.</ORIGIN>
+        <SUBSTITUTES>Centennial</SUBSTITUTES>
+        <HUMULENE>11.5</HUMULENE>
+        <CAROPHYLLENE>4.5</CAROPHYLLENE>
+        <COHUMULONE>36.5</COHUMULONE>
+        <MYRCENE>52.5</MYRCENE>
+        <DISPLAY_TIME>10 min.</DISPLAY_TIME>
+        <TOTAL_OIL>1.100000024</TOTAL_OIL>
+      </HOP>
+      <HOP>
+        <NAME>Willamette</NAME>
+        <NOTES>Mooie aromahop voor het aromatiseren van Amerikaanse en Engelse ales.
+Aroma: mild, grassig, bloemachtig, licht kruidig.</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.03</AMOUNT>
+        <DISPLAY_AMOUNT>30.0 g</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>5.5</ALPHA>
+        <TIME>10</TIME>
+        <TYPE>Aroma</TYPE>
+        <FORM>Pellet</FORM>
+        <USE>Boil</USE>
+        <BETA>3.5</BETA>
+        <HSI>37.5</HSI>
+        <ORIGIN>V.S.</ORIGIN>
+        <SUBSTITUTES>Fuggle</SUBSTITUTES>
+        <HUMULENE>25</HUMULENE>
+        <CAROPHYLLENE>7.5</CAROPHYLLENE>
+        <COHUMULONE>32.5</COHUMULONE>
+        <MYRCENE>42.5</MYRCENE>
+        <DISPLAY_TIME>10 min.</DISPLAY_TIME>
+        <TOTAL_OIL>1.299999952</TOTAL_OIL>
+      </HOP>
+      <HOP>
+        <NAME>Willamette</NAME>
+        <NOTES>Mooie aromahop voor het aromatiseren van Amerikaanse en Engelse ales.
+Aroma: mild, grassig, bloemachtig, licht kruidig.</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.024</AMOUNT>
+        <DISPLAY_AMOUNT>24.0 g</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>5.5</ALPHA>
+        <TIME>5</TIME>
+        <TYPE>Aroma</TYPE>
+        <FORM>Pellet</FORM>
+        <USE>Boil</USE>
+        <BETA>3.5</BETA>
+        <HSI>37.5</HSI>
+        <ORIGIN>V.S.</ORIGIN>
+        <SUBSTITUTES>Fuggle</SUBSTITUTES>
+        <HUMULENE>25</HUMULENE>
+        <CAROPHYLLENE>7.5</CAROPHYLLENE>
+        <COHUMULONE>32.5</COHUMULONE>
+        <MYRCENE>42.5</MYRCENE>
+        <DISPLAY_TIME>5 min.</DISPLAY_TIME>
+        <TOTAL_OIL>1.299999952</TOTAL_OIL>
+      </HOP>
+      <HOP>
+        <NAME>Cascade</NAME>
+        <NOTES>Klassieke Amerikaanse aromahop.
+Gebruik: Amerikaanse bieren
+Aroma: sterk kruidig. bloemig en grapefruit karakter.
+Substitutes: Centennial
+Voorbeelden: Sierra Nevada Pale Ale. Anchor Liberty Ale</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.0567</AMOUNT>
+        <DISPLAY_AMOUNT>56.7 g</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>5.5</ALPHA>
+        <TYPE>Both</TYPE>
+        <FORM>Pellet</FORM>
+        <USE>Dry hop</USE>
+        <BETA>6</BETA>
+        <HSI>50</HSI>
+        <ORIGIN>V.S.</ORIGIN>
+        <SUBSTITUTES>Centennial</SUBSTITUTES>
+        <HUMULENE>11.5</HUMULENE>
+        <CAROPHYLLENE>4.5</CAROPHYLLENE>
+        <COHUMULONE>36.5</COHUMULONE>
+        <MYRCENE>52.5</MYRCENE>
+        <TOTAL_OIL>1.100000024</TOTAL_OIL>
+      </HOP>
+    </HOPS>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pale mout</NAME>
+        <NOTES>Lichte basismout voor alle biertypen.</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>5.33</AMOUNT>
+        <DISPLAY_AMOUNT>5.330 kg</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <TYPE>Grain</TYPE>
+        <YIELD>79</YIELD>
+        <COLOR>2.828872919</COLOR>
+        <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+        <ORIGIN>Duitsland</ORIGIN>
+        <SUPPLIER>Weyermann</SUPPLIER>
+        <COARSE_FINE_DIFF>2</COARSE_FINE_DIFF>
+        <MOISTURE>4</MOISTURE>
+        <DIASTATIC_POWER>6.571428776</DIASTATIC_POWER>
+        <PROTEIN>10</PROTEIN>
+        <MAX_IN_BATCH>100</MAX_IN_BATCH>
+        <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+        <DISPLAY_COLOR>6 EBC</DISPLAY_COLOR>
+        <GRAINTYPE>Base</GRAINTYPE>
+        <ADDED>Mash</ADDED>
+        <PERCENTAGE>85.5125942563773</PERCENTAGE>
+        <ADJUST_TO_TOTAL_100>FALSE</ADJUST_TO_TOTAL_100>
+        <DI_pH>5.68125532100003</DI_pH>
+        <ACID_TO_pH_5.7>0.757648005771806</ACID_TO_pH_5.7>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Cara-red</NAME>
+        <NOTES>Medium caramout. Verhoogt body en geeft een roodachtige kleur.</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.45</AMOUNT>
+        <DISPLAY_AMOUNT>0.450 kg</DISPLAY_AMOUNT>
+        <COST>3.029999971</COST>
+        <DISPLAY_COST>3.03 €</DISPLAY_COST>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <TYPE>Grain</TYPE>
+        <YIELD>77.90000153</YIELD>
+        <COLOR>19.21834183</COLOR>
+        <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+        <ORIGIN>Duitsland</ORIGIN>
+        <SUPPLIER>Weyermann</SUPPLIER>
+        <COARSE_FINE_DIFF>2</COARSE_FINE_DIFF>
+        <MOISTURE>6</MOISTURE>
+        <DIASTATIC_POWER>4.571428776</DIASTATIC_POWER>
+        <PROTEIN>11</PROTEIN>
+        <MAX_IN_BATCH>25</MAX_IN_BATCH>
+        <RECOMMEND_MASH>FALSE</RECOMMEND_MASH>
+        <DISPLAY_COLOR>50 EBC</DISPLAY_COLOR>
+        <GRAINTYPE>Crystal</GRAINTYPE>
+        <ADDED>Mash</ADDED>
+        <PERCENTAGE>7.21963741376544</PERCENTAGE>
+        <ADJUST_TO_TOTAL_100>FALSE</ADJUST_TO_TOTAL_100>
+        <DI_pH>5.12248508367134</DI_pH>
+        <ACID_TO_pH_5.7>20.8780362923066</ACID_TO_pH_5.7>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Münchner II</NAME>
+        <NOTES>Donkerder Münchenermout. Basismout in veel Duitse bierstijlen. zoals Bockbieren en Oktoberfest. Geeft een moutige smaak en aroma.</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.34</AMOUNT>
+        <DISPLAY_AMOUNT>0.340 kg</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <TYPE>Grain</TYPE>
+        <YIELD>78</YIELD>
+        <COLOR>9.157519341</COLOR>
+        <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+        <ORIGIN>Duitsland</ORIGIN>
+        <SUPPLIER>Weyermann</SUPPLIER>
+        <COARSE_FINE_DIFF>2</COARSE_FINE_DIFF>
+        <MOISTURE>3</MOISTURE>
+        <DIASTATIC_POWER>6.571428776</DIASTATIC_POWER>
+        <PROTEIN>11</PROTEIN>
+        <MAX_IN_BATCH>100</MAX_IN_BATCH>
+        <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+        <DISPLAY_COLOR>23 EBC</DISPLAY_COLOR>
+        <GRAINTYPE>Base</GRAINTYPE>
+        <ADDED>Mash</ADDED>
+        <PERCENTAGE>5.45483715706722</PERCENTAGE>
+        <ADJUST_TO_TOTAL_100>FALSE</ADJUST_TO_TOTAL_100>
+        <DI_pH>5.54</DI_pH>
+        <ACID_TO_pH_5.7>5.6</ACID_TO_pH_5.7>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Tarwevlokken</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.113</AMOUNT>
+        <DISPLAY_AMOUNT>0.113 kg</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <TYPE>Adjunct</TYPE>
+        <YIELD>80</YIELD>
+        <COLOR>1.340459704</COLOR>
+        <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+        <ORIGIN>Frankrijk</ORIGIN>
+        <SUPPLIER>Supermarkt</SUPPLIER>
+        <COARSE_FINE_DIFF>3</COARSE_FINE_DIFF>
+        <MOISTURE>4</MOISTURE>
+        <DIASTATIC_POWER>4.571428776</DIASTATIC_POWER>
+        <PROTEIN>15</PROTEIN>
+        <MAX_IN_BATCH>60</MAX_IN_BATCH>
+        <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+        <DISPLAY_COLOR>2 EBC</DISPLAY_COLOR>
+        <GRAINTYPE>No malt</GRAINTYPE>
+        <ADDED>Mash</ADDED>
+        <PERCENTAGE>1.81293117278999</PERCENTAGE>
+        <ADJUST_TO_TOTAL_100>FALSE</ADJUST_TO_TOTAL_100>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <YEASTS>
+      <YEAST>
+        <NAME>Nottingham</NAME>
+        <NOTES>Flocculente gist die ver doorgist. Produceert relatief weinig fruitige sters. Kan ook bij lagere temperatuur goed gisten.</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.011</AMOUNT>
+        <DISPLAY_AMOUNT>0 pak(ken)</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <TYPE>Ale</TYPE>
+        <FORM>Dry</FORM>
+        <AMOUNT_IS_WEIGHT>TRUE</AMOUNT_IS_WEIGHT>
+        <LABORATORY>Danstar</LABORATORY>
+        <PRODUCT_ID>-</PRODUCT_ID>
+        <MIN_TEMPERATURE>14</MIN_TEMPERATURE>
+        <MAX_TEMPERATURE>21</MAX_TEMPERATURE>
+        <FLOCCULATION>High</FLOCCULATION>
+        <ATTENUATION>75</ATTENUATION>
+        <BEST_FOR>Neutrale bovengist.</BEST_FOR>
+        <TIMES_CULTURED>0</TIMES_CULTURED>
+        <MAX_REUSE>5</MAX_REUSE>
+        <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+        <DISP_MIN_TEMP>14 °C</DISP_MIN_TEMP>
+        <DISP_MAX_TEMP>21 °C</DISP_MAX_TEMP>
+        <CULTURE_DATE>14-06-2003</CULTURE_DATE>
+        <STARTER_TYPE>Simple</STARTER_TYPE>
+        <STARTER_MADE>FALSE</STARTER_MADE>
+        <OG_STARTER>1.039999962</OG_STARTER>
+        <TIME_AERATED>24</TIME_AERATED>
+        <TEMP>20</TEMP>
+        <ZINC_ADDED>FALSE</ZINC_ADDED>
+        <AMOUNT_ZINC>0.0001</AMOUNT_ZINC>
+        <AMOUNT_YEAST>0.011</AMOUNT_YEAST>
+        <AMOUNT_EXTRACT>0.1000000015</AMOUNT_EXTRACT>
+        <COST_EXTRACT>1</COST_EXTRACT>
+      </YEAST>
+    </YEASTS>
+    <WATERS>
+      <WATER>
+        <NAME>Zutphen</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>18</AMOUNT>
+        <DISPLAY_AMOUNT>18.00 l</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <CALCIUM>66</CALCIUM>
+        <BICARBONATE>214.7200012</BICARBONATE>
+        <SULFATE>41</SULFATE>
+        <CHLORIDE>94</CHLORIDE>
+        <SODIUM>66</SODIUM>
+        <MAGNESIUM>12</MAGNESIUM>
+        <PH>8.199999809</PH>
+        <TOTAL_ALKALINITY>176</TOTAL_ALKALINITY>
+        <DEFAULT_WATER>TRUE</DEFAULT_WATER>
+      </WATER>
+    </WATERS>
+    <MASH>
+      <NAME>53, 62, 72, 78. medium body</NAME>
+      <NOTES>Driestapsmaisch met eiwitrust en directe verwarming van de maischketel. Voor bieren met veel ongemoute granen in de stort. Directe verwarming zorgt voor het warm houden en opwarmen van het beslag.</NOTES>
+      <VERSION>1</VERSION>
+      <GRAIN_TEMP>22</GRAIN_TEMP>
+      <TUN_TEMP>53.6932687401327</TUN_TEMP>
+      <SPARGE_TEMP>78</SPARGE_TEMP>
+      <SG_LAST_RUNNINGS>1.00999999</SG_LAST_RUNNINGS>
+      <PH_LAST_RUNNINGS>5.29999998956919</PH_LAST_RUNNINGS>
+      <PH>5.29999999850988</PH>
+      <TUN_WEIGHT>2</TUN_WEIGHT>
+      <TUN_SPECIFIC_HEAT>0.22</TUN_SPECIFIC_HEAT>
+      <EQUIP_ADJUST>FALSE</EQUIP_ADJUST>
+      <MASH_STEPS>
+        <MASH_STEP>
+          <NAME>Eiwitrust</NAME>
+          <VERSION>1</VERSION>
+          <TYPE>Infusion</TYPE>
+          <INFUSE_AMOUNT>18</INFUSE_AMOUNT>
+          <STEP_TEMP>53</STEP_TEMP>
+          <STEP_TIME>20</STEP_TIME>
+          <RAMP_TIME>1</RAMP_TIME>
+          <END_TEMP>53</END_TEMP>
+          <WATER_GRAIN_RATIO>2.89 l/kg</WATER_GRAIN_RATIO>
+          <DECOCTION_AMT>0.0</DECOCTION_AMT>
+          <DISPLAY_INFUSE_AMT>18.0 l</DISPLAY_INFUSE_AMT>
+          <INFUSE_TEMP>53.7 °C</INFUSE_TEMP>
+          <DISPLAY_STEP_TEMP>53.0 °C</DISPLAY_STEP_TEMP>
+          <PH>5.300000191</PH>
+        </MASH_STEP>
+        <MASH_STEP>
+          <NAME>Beta-amylase</NAME>
+          <VERSION>1</VERSION>
+          <TYPE>Temperature</TYPE>
+          <STEP_TEMP>63</STEP_TEMP>
+          <STEP_TIME>30</STEP_TIME>
+          <RAMP_TIME>20</RAMP_TIME>
+          <END_TEMP>63</END_TEMP>
+          <WATER_GRAIN_RATIO>2.89 l/kg</WATER_GRAIN_RATIO>
+          <DECOCTION_AMT>0.0</DECOCTION_AMT>
+          <DISPLAY_STEP_TEMP>63.0 °C</DISPLAY_STEP_TEMP>
+          <PH>5.300000191</PH>
+        </MASH_STEP>
+        <MASH_STEP>
+          <NAME>Alfa-amylase</NAME>
+          <VERSION>1</VERSION>
+          <TYPE>Temperature</TYPE>
+          <STEP_TEMP>72</STEP_TEMP>
+          <STEP_TIME>30</STEP_TIME>
+          <RAMP_TIME>15</RAMP_TIME>
+          <END_TEMP>72</END_TEMP>
+          <WATER_GRAIN_RATIO>2.89 l/kg</WATER_GRAIN_RATIO>
+          <DECOCTION_AMT>0.0</DECOCTION_AMT>
+          <DISPLAY_STEP_TEMP>72.0 °C</DISPLAY_STEP_TEMP>
+          <PH>5.300000191</PH>
+        </MASH_STEP>
+        <MASH_STEP>
+          <NAME>Uitmaischen</NAME>
+          <VERSION>1</VERSION>
+          <TYPE>Temperature</TYPE>
+          <STEP_TEMP>78</STEP_TEMP>
+          <STEP_TIME>5</STEP_TIME>
+          <RAMP_TIME>10</RAMP_TIME>
+          <END_TEMP>78</END_TEMP>
+          <WATER_GRAIN_RATIO>2.89 l/kg</WATER_GRAIN_RATIO>
+          <DECOCTION_AMT>0.0</DECOCTION_AMT>
+          <DISPLAY_STEP_TEMP>78.0 °C</DISPLAY_STEP_TEMP>
+          <PH>5.300000191</PH>
+        </MASH_STEP>
+      </MASH_STEPS>
+    </MASH>
+    <OG>1</OG>
+    <FG>1.018</FG>
+    <FERMENTATION_STAGES>0</FERMENTATION_STAGES>
+    <PRIMARY_TEMP>20</PRIMARY_TEMP>
+    <DATE>14-03-2015</DATE>
+    <CARBONATION>3</CARBONATION>
+    <FORCED_CARBONATION>FALSE</FORCED_CARBONATION>
+    <CARBONATION_TEMP>18</CARBONATION_TEMP>
+    <IBU_METHOD>Rager</IBU_METHOD>
+    <DISPLAY_BATCH_SIZE>21.0 l</DISPLAY_BATCH_SIZE>
+    <DISPLAY_BOIL_SIZE>23.0 l</DISPLAY_BOIL_SIZE>
+    <DISPLAY_CARB_TEMP>18.0 °C</DISPLAY_CARB_TEMP>
+    <COLOR_METHOD>Morey</COLOR_METHOD>
+    <NR_RECIPE>4</NR_RECIPE>
+    <ACID_SPARGE_PERC>80</ACID_SPARGE_PERC>
+    <SPARGE_ACID_TYPE>Lactic</SPARGE_ACID_TYPE>
+    <TARGET_PH>5.4</TARGET_PH>
+    <SG_END_MASH>1</SG_END_MASH>
+    <SPARGE_WATER_COMP>0</SPARGE_WATER_COMP>
+    <OG_BEFORE_BOIL>1</OG_BEFORE_BOIL>
+    <OG_FERMENTER>1.06849596313868</OG_FERMENTER>
+    <COOLING_METHOD>-</COOLING_METHOD>
+    <AERATION_TYPE>None</AERATION_TYPE>
+    <SG_END_PRIMARY>1.018</SG_END_PRIMARY>
+    <START_TEMP_PRIMARY>19</START_TEMP_PRIMARY>
+    <MAX_TEMP_PRIMARY>21</MAX_TEMP_PRIMARY>
+    <END_TEMP_PRIMARY>20</END_TEMP_PRIMARY>
+    <AMOUNT_BOTTLING>0.5</AMOUNT_BOTTLING>
+    <CARBONATION>3</CARBONATION>
+    <FORCED_CARB_KEGS>FALSE</FORCED_CARB_KEGS>
+    <AMOUNT_PRIMING>7.42655104895105</AMOUNT_PRIMING>
+    <INVENTORY_REDUCED>TRUE</INVENTORY_REDUCED>
+    <LOCKED>FALSE</LOCKED>
+    <PRIMING_SUGAR_BOTTLES>Saccharose</PRIMING_SUGAR_BOTTLES>
+    <PRIMING_SUGAR_KEGS>Saccharose</PRIMING_SUGAR_KEGS>
+    <BATCH_DIVIDED>-1</BATCH_DIVIDED>
+    <BATCH_DIVISION>-1</BATCH_DIVISION>
+    <DIVIDED_FROM>0</DIVIDED_FROM>
+    <CALC_ACID>FALSE</CALC_ACID>
+  </RECIPE>
+  <RECIPE>
+    <AUTONR>2</AUTONR>
+    <NAME>Muc Dunkel</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>All Grain</TYPE>
+    <STYLE>
+      <NAME>Münchener Dunkles</NAME>
+      <VERSION>1</VERSION>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <TYPE>Lager</TYPE>
+      <OG_MIN>1.047999978</OG_MIN>
+      <OG_MAX>1.052000046</OG_MAX>
+      <FG_MIN>1.004999995</FG_MIN>
+      <FG_MAX>1.00999999</FG_MAX>
+      <IBU_MIN>20</IBU_MIN>
+      <IBU_MAX>25</IBU_MAX>
+      <COLOR_MIN>15.49077702</COLOR_MIN>
+      <COLOR_MAX>30.41022873</COLOR_MAX>
+      <CARB_MIN>2.200000048</CARB_MIN>
+      <CARB_MAX>2.400000095</CARB_MAX>
+      <ABV_MIN>4.5</ABV_MIN>
+      <ABV_MAX>5.5</ABV_MAX>
+      <DISPLAY_OG_MIN>1.048 SG</DISPLAY_OG_MIN>
+      <DISPLAY_OG_MAX>1.052 SG</DISPLAY_OG_MAX>
+      <DISPLAY_FG_MIN>1.005 SG</DISPLAY_FG_MIN>
+      <DISPLAY_FG_MAX>1.010 SG</DISPLAY_FG_MAX>
+      <DISPLAY_IBU_MIN>20 IBU</DISPLAY_IBU_MIN>
+      <DISPLAY_IBU_MAX>25 IBU</DISPLAY_IBU_MAX>
+      <DISPLAY_COLOR_MIN>40 EBC</DISPLAY_COLOR_MIN>
+      <DISPLAY_COLOR_MAX>80 EBC</DISPLAY_COLOR_MAX>
+      <DISPLAY_CARB_MIN>2.2 vol.</DISPLAY_CARB_MIN>
+      <DISPLAY_CARB_MAX>2.4 vol.</DISPLAY_CARB_MAX>
+      <DISPLAY_ABV_MIN>4.5 vol.%</DISPLAY_ABV_MIN>
+      <DISPLAY_ABV_MAX>5.5 vol.%</DISPLAY_ABV_MAX>
+      <OG_RANGE>1.048-1.052 SG</OG_RANGE>
+      <FG_RANGE>1.005-1.010 SG</FG_RANGE>
+      <IBU_RANGE>20-25 IBU</IBU_RANGE>
+      <CARB_RANGE>2.2-2.4 vol.</CARB_RANGE>
+      <COLOR_RANGE>15-30 EBC</COLOR_RANGE>
+      <ABV_RANGE>4.5-5.5 vol.%</ABV_RANGE>
+    </STYLE>
+    <EQUIPMENT>
+      <NAME>Lidl einkocher</NAME>
+      <VERSION>1</VERSION>
+      <BOIL_SIZE>25</BOIL_SIZE>
+      <BATCH_SIZE>22</BATCH_SIZE>
+      <TUN_VOLUME>30</TUN_VOLUME>
+      <TUN_WEIGHT>2</TUN_WEIGHT>
+      <TUN_SPECIFIC_HEAT>0.22</TUN_SPECIFIC_HEAT>
+      <TRUB_CHILLER_LOSS>0.5</TRUB_CHILLER_LOSS>
+      <EVAP_RATE>8</EVAP_RATE>
+      <BOIL_TIME>90</BOIL_TIME>
+      <CALC_BOIL_VOLUME>TRUE</CALC_BOIL_VOLUME>
+      <LAUTER_DEADSPACE>2</LAUTER_DEADSPACE>
+      <HOP_UTILIZATION>100</HOP_UTILIZATION>
+      <DISPLAY_BOIL_SIZE>25.0 l</DISPLAY_BOIL_SIZE>
+      <DISPLAY_BATCH_SIZE>22.0 l</DISPLAY_BATCH_SIZE>
+      <DISPLAY_TUN_VOLUME>30.0 l</DISPLAY_TUN_VOLUME>
+      <DISPLAY_TUN_WEIGHT>2.00 kg</DISPLAY_TUN_WEIGHT>
+      <DISPLAY_TRUB_CHILLER_LOSS>0.5 l</DISPLAY_TRUB_CHILLER_LOSS>
+      <DISPLAY_LAUTERDEADSPACE>2.0 l</DISPLAY_LAUTERDEADSPACE>
+      <LAUTER_VOLUME>20</LAUTER_VOLUME>
+      <KETTLE_VOLUME>27</KETTLE_VOLUME>
+      <TUN_MATERIAL>Aluminium</TUN_MATERIAL>
+      <TUN_HEIGHT>0.4</TUN_HEIGHT>
+      <KETTLE_HEIGHT>0.3</KETTLE_HEIGHT>
+      <LAUTER_HEIGHT>0.2</LAUTER_HEIGHT>
+      <MASH_VOLUME>18</MASH_VOLUME>
+      <EFFICIENCY>75</EFFICIENCY>
+      <ATTENUATION_FACTOR_YEAST>0.00825</ATTENUATION_FACTOR_YEAST>
+      <ATTENUATION_FACTOR_WATER_TO_GRAIN_RATIO>0.00817</ATTENUATION_FACTOR_WATER_TO_GRAIN_RATIO>
+      <ATTENUATION_FACTOR_TOTAL_MASH_TIME>0.00026</ATTENUATION_FACTOR_TOTAL_MASH_TIME>
+      <ATTENUATION_FACTOR_PERC_SIMPLE_SUGAR>0.00553</ATTENUATION_FACTOR_PERC_SIMPLE_SUGAR>
+      <ATTENUATION_FACTOR_CONSTANT>0.547</ATTENUATION_FACTOR_CONSTANT>
+    </EQUIPMENT>
+    <BATCH_SIZE>22</BATCH_SIZE>
+    <BOIL_SIZE>25</BOIL_SIZE>
+    <BOIL_TIME>90</BOIL_TIME>
+    <EFFICIENCY>75</EFFICIENCY>
+    <HOPS/>
+    <FERMENTABLES/>
+    <YEASTS/>
+    <MASH>
+      <VERSION>1</VERSION>
+      <GRAIN_TEMP>10</GRAIN_TEMP>
+      <TUN_TEMP>10</TUN_TEMP>
+      <SPARGE_TEMP>78</SPARGE_TEMP>
+      <SG_LAST_RUNNINGS>1.01</SG_LAST_RUNNINGS>
+      <PH_LAST_RUNNINGS>6</PH_LAST_RUNNINGS>
+      <PH>6</PH>
+      <TUN_WEIGHT>2</TUN_WEIGHT>
+      <TUN_SPECIFIC_HEAT>0.22</TUN_SPECIFIC_HEAT>
+      <EQUIP_ADJUST>TRUE</EQUIP_ADJUST>
+      <MASH_STEPS/>
+    </MASH>
+    <OG>1</OG>
+    <FG>1</FG>
+    <FERMENTATION_STAGES>0</FERMENTATION_STAGES>
+    <DATE>11-07-2015</DATE>
+    <FORCED_CARBONATION>FALSE</FORCED_CARBONATION>
+    <IBU_METHOD>Rager</IBU_METHOD>
+    <DISPLAY_BATCH_SIZE>22.0 l</DISPLAY_BATCH_SIZE>
+    <DISPLAY_BOIL_SIZE>25.0 l</DISPLAY_BOIL_SIZE>
+    <PARENT>R0</PARENT>
+    <COLOR_METHOD>Morey</COLOR_METHOD>
+    <NR_RECIPE>5</NR_RECIPE>
+    <ACID_SPARGE_PERC>80</ACID_SPARGE_PERC>
+    <SPARGE_ACID_TYPE>Lactic</SPARGE_ACID_TYPE>
+    <TARGET_PH>5.4</TARGET_PH>
+    <SG_END_MASH>1</SG_END_MASH>
+    <SPARGE_WATER_COMP>0</SPARGE_WATER_COMP>
+    <OG_BEFORE_BOIL>1</OG_BEFORE_BOIL>
+    <OG_FERMENTER>1</OG_FERMENTER>
+    <COOLING_METHOD>-</COOLING_METHOD>
+    <AERATION_TYPE>None</AERATION_TYPE>
+    <SG_END_PRIMARY>1</SG_END_PRIMARY>
+    <FORCED_CARB_KEGS>FALSE</FORCED_CARB_KEGS>
+    <INVENTORY_REDUCED>FALSE</INVENTORY_REDUCED>
+    <LOCKED>FALSE</LOCKED>
+    <PRIMING_SUGAR_BOTTLES>Saccharose</PRIMING_SUGAR_BOTTLES>
+    <PRIMING_SUGAR_KEGS>Saccharose</PRIMING_SUGAR_KEGS>
+    <BATCH_DIVIDED>-1</BATCH_DIVIDED>
+    <BATCH_DIVISION>-1</BATCH_DIVISION>
+    <DIVIDED_FROM>0</DIVIDED_FROM>
+    <CALC_ACID>FALSE</CALC_ACID>
+  </RECIPE>
+  <RECIPE>
+    <AUTONR>7</AUTONR>
+    <NAME>Weidenthaler Home Grown Cascade</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>All Grain</TYPE>
+    <STYLE>
+      <NAME>Pale Ale/Strong Bitter</NAME>
+      <VERSION>1</VERSION>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.044999957</OG_MIN>
+      <OG_MAX>1.055999994</OG_MAX>
+      <FG_MIN>1.004999995</FG_MIN>
+      <FG_MAX>1.00999999</FG_MAX>
+      <IBU_MIN>30</IBU_MIN>
+      <IBU_MAX>45</IBU_MAX>
+      <COLOR_MIN>6.178752899</COLOR_MIN>
+      <COLOR_MAX>11.76477814</COLOR_MAX>
+      <CARB_MIN>1.799999952</CARB_MIN>
+      <CARB_MAX>2.400000095</CARB_MAX>
+      <ABV_MIN>4.5</ABV_MIN>
+      <ABV_MAX>5.599999905</ABV_MAX>
+      <DISPLAY_OG_MIN>1.045 SG</DISPLAY_OG_MIN>
+      <DISPLAY_OG_MAX>1.056 SG</DISPLAY_OG_MAX>
+      <DISPLAY_FG_MIN>1.005 SG</DISPLAY_FG_MIN>
+      <DISPLAY_FG_MAX>1.010 SG</DISPLAY_FG_MAX>
+      <DISPLAY_IBU_MIN>30 IBU</DISPLAY_IBU_MIN>
+      <DISPLAY_IBU_MAX>45 IBU</DISPLAY_IBU_MAX>
+      <DISPLAY_COLOR_MIN>15 EBC</DISPLAY_COLOR_MIN>
+      <DISPLAY_COLOR_MAX>30 EBC</DISPLAY_COLOR_MAX>
+      <DISPLAY_CARB_MIN>1.8 vol.</DISPLAY_CARB_MIN>
+      <DISPLAY_CARB_MAX>2.4 vol.</DISPLAY_CARB_MAX>
+      <DISPLAY_ABV_MIN>4.5 vol.%</DISPLAY_ABV_MIN>
+      <DISPLAY_ABV_MAX>5.6 vol.%</DISPLAY_ABV_MAX>
+      <OG_RANGE>1.045-1.056 SG</OG_RANGE>
+      <FG_RANGE>1.005-1.010 SG</FG_RANGE>
+      <IBU_RANGE>30-45 IBU</IBU_RANGE>
+      <CARB_RANGE>1.8-2.4 vol.</CARB_RANGE>
+      <COLOR_RANGE>6-12 EBC</COLOR_RANGE>
+      <ABV_RANGE>4.5-5.6 vol.%</ABV_RANGE>
+    </STYLE>
+    <EQUIPMENT>
+      <NAME>Lidl einkocher</NAME>
+      <VERSION>1</VERSION>
+      <BOIL_SIZE>25</BOIL_SIZE>
+      <BATCH_SIZE>22</BATCH_SIZE>
+      <TUN_VOLUME>30</TUN_VOLUME>
+      <TUN_WEIGHT>2</TUN_WEIGHT>
+      <TUN_SPECIFIC_HEAT>0.22</TUN_SPECIFIC_HEAT>
+      <TRUB_CHILLER_LOSS>4.5</TRUB_CHILLER_LOSS>
+      <EVAP_RATE>8</EVAP_RATE>
+      <BOIL_TIME>90</BOIL_TIME>
+      <CALC_BOIL_VOLUME>TRUE</CALC_BOIL_VOLUME>
+      <LAUTER_DEADSPACE>2</LAUTER_DEADSPACE>
+      <HOP_UTILIZATION>100</HOP_UTILIZATION>
+      <DISPLAY_BOIL_SIZE>25.0 l</DISPLAY_BOIL_SIZE>
+      <DISPLAY_BATCH_SIZE>22.0 l</DISPLAY_BATCH_SIZE>
+      <DISPLAY_TUN_VOLUME>30.0 l</DISPLAY_TUN_VOLUME>
+      <DISPLAY_TUN_WEIGHT>2.00 kg</DISPLAY_TUN_WEIGHT>
+      <DISPLAY_TRUB_CHILLER_LOSS>4.5 l</DISPLAY_TRUB_CHILLER_LOSS>
+      <DISPLAY_LAUTERDEADSPACE>2.0 l</DISPLAY_LAUTERDEADSPACE>
+      <LAUTER_VOLUME>20</LAUTER_VOLUME>
+      <KETTLE_VOLUME>27</KETTLE_VOLUME>
+      <TUN_MATERIAL>Aluminium</TUN_MATERIAL>
+      <TUN_HEIGHT>0.4</TUN_HEIGHT>
+      <KETTLE_HEIGHT>0.3</KETTLE_HEIGHT>
+      <LAUTER_HEIGHT>0.2</LAUTER_HEIGHT>
+      <MASH_VOLUME>18</MASH_VOLUME>
+      <EFFICIENCY>75</EFFICIENCY>
+      <ATTENUATION_FACTOR_YEAST>0.00825</ATTENUATION_FACTOR_YEAST>
+      <ATTENUATION_FACTOR_WATER_TO_GRAIN_RATIO>0.00817</ATTENUATION_FACTOR_WATER_TO_GRAIN_RATIO>
+      <ATTENUATION_FACTOR_TOTAL_MASH_TIME>0.00026</ATTENUATION_FACTOR_TOTAL_MASH_TIME>
+      <ATTENUATION_FACTOR_PERC_SIMPLE_SUGAR>0.00553</ATTENUATION_FACTOR_PERC_SIMPLE_SUGAR>
+      <ATTENUATION_FACTOR_CONSTANT>0.547</ATTENUATION_FACTOR_CONSTANT>
+    </EQUIPMENT>
+    <BATCH_SIZE>21</BATCH_SIZE>
+    <BOIL_SIZE>23</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>79</EFFICIENCY>
+    <HOPS>
+      <HOP>
+        <NAME>Cascade</NAME>
+        <NOTES>Klassieke Amerikaanse aromahop.
+Gebruik: Amerikaanse bieren
+Aroma: sterk kruidig. bloemig en grapefruit karakter.
+Substitutes: Centennial
+Voorbeelden: Sierra Nevada Pale Ale. Anchor Liberty Ale</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.0199042305806185</AMOUNT>
+        <DISPLAY_AMOUNT>19.9 g</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>5.5</ALPHA>
+        <TIME>60</TIME>
+        <TYPE>Both</TYPE>
+        <FORM>Pellet</FORM>
+        <USE>First wort</USE>
+        <BETA>6</BETA>
+        <HSI>50</HSI>
+        <ORIGIN>V.S.</ORIGIN>
+        <SUBSTITUTES>Centennial</SUBSTITUTES>
+        <HUMULENE>11.5</HUMULENE>
+        <CAROPHYLLENE>4.5</CAROPHYLLENE>
+        <COHUMULONE>36.5</COHUMULONE>
+        <MYRCENE>52.5</MYRCENE>
+        <DISPLAY_TIME>60 min.</DISPLAY_TIME>
+        <TOTAL_OIL>1.100000024</TOTAL_OIL>
+      </HOP>
+      <HOP>
+        <NAME>Cascade</NAME>
+        <NOTES>Klassieke Amerikaanse aromahop.
+Gebruik: Amerikaanse bieren
+Aroma: sterk kruidig. bloemig en grapefruit karakter.
+Substitutes: Centennial
+Voorbeelden: Sierra Nevada Pale Ale. Anchor Liberty Ale</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.02</AMOUNT>
+        <DISPLAY_AMOUNT>20.0 g</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>5.5</ALPHA>
+        <TIME>30</TIME>
+        <TYPE>Both</TYPE>
+        <FORM>Pellet</FORM>
+        <USE>Boil</USE>
+        <BETA>6</BETA>
+        <HSI>50</HSI>
+        <ORIGIN>V.S.</ORIGIN>
+        <SUBSTITUTES>Centennial</SUBSTITUTES>
+        <HUMULENE>11.5</HUMULENE>
+        <CAROPHYLLENE>4.5</CAROPHYLLENE>
+        <COHUMULONE>36.5</COHUMULONE>
+        <MYRCENE>52.5</MYRCENE>
+        <DISPLAY_TIME>30 min.</DISPLAY_TIME>
+        <TOTAL_OIL>1.100000024</TOTAL_OIL>
+      </HOP>
+      <HOP>
+        <NAME>Cascade</NAME>
+        <NOTES>Klassieke Amerikaanse aromahop.
+Gebruik: Amerikaanse bieren
+Aroma: sterk kruidig. bloemig en grapefruit karakter.
+Substitutes: Centennial
+Voorbeelden: Sierra Nevada Pale Ale. Anchor Liberty Ale</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.02</AMOUNT>
+        <DISPLAY_AMOUNT>20.0 g</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>5.5</ALPHA>
+        <TIME>10</TIME>
+        <TYPE>Both</TYPE>
+        <FORM>Pellet</FORM>
+        <USE>Boil</USE>
+        <BETA>6</BETA>
+        <HSI>50</HSI>
+        <ORIGIN>V.S.</ORIGIN>
+        <SUBSTITUTES>Centennial</SUBSTITUTES>
+        <HUMULENE>11.5</HUMULENE>
+        <CAROPHYLLENE>4.5</CAROPHYLLENE>
+        <COHUMULONE>36.5</COHUMULONE>
+        <MYRCENE>52.5</MYRCENE>
+        <DISPLAY_TIME>10 min.</DISPLAY_TIME>
+        <TOTAL_OIL>1.100000024</TOTAL_OIL>
+      </HOP>
+      <HOP>
+        <NAME>Cascade</NAME>
+        <NOTES>Klassieke Amerikaanse aromahop.
+Gebruik: Amerikaanse bieren
+Aroma: sterk kruidig. bloemig en grapefruit karakter.
+Substitutes: Centennial
+Voorbeelden: Sierra Nevada Pale Ale. Anchor Liberty Ale</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.02</AMOUNT>
+        <DISPLAY_AMOUNT>20.0 g</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>5.5</ALPHA>
+        <TIME>5</TIME>
+        <TYPE>Both</TYPE>
+        <FORM>Pellet</FORM>
+        <USE>Boil</USE>
+        <BETA>6</BETA>
+        <HSI>50</HSI>
+        <ORIGIN>V.S.</ORIGIN>
+        <SUBSTITUTES>Centennial</SUBSTITUTES>
+        <HUMULENE>11.5</HUMULENE>
+        <CAROPHYLLENE>4.5</CAROPHYLLENE>
+        <COHUMULONE>36.5</COHUMULONE>
+        <MYRCENE>52.5</MYRCENE>
+        <DISPLAY_TIME>5 min.</DISPLAY_TIME>
+        <TOTAL_OIL>1.100000024</TOTAL_OIL>
+      </HOP>
+      <HOP>
+        <NAME>Cascade</NAME>
+        <NOTES>Klassieke Amerikaanse aromahop.
+Gebruik: Amerikaanse bieren
+Aroma: sterk kruidig. bloemig en grapefruit karakter.
+Substitutes: Centennial
+Voorbeelden: Sierra Nevada Pale Ale. Anchor Liberty Ale</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.02</AMOUNT>
+        <DISPLAY_AMOUNT>20.0 g</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>5.5</ALPHA>
+        <TYPE>Both</TYPE>
+        <FORM>Pellet</FORM>
+        <USE>Whirlpool</USE>
+        <BETA>6</BETA>
+        <HSI>50</HSI>
+        <ORIGIN>V.S.</ORIGIN>
+        <SUBSTITUTES>Centennial</SUBSTITUTES>
+        <HUMULENE>11.5</HUMULENE>
+        <CAROPHYLLENE>4.5</CAROPHYLLENE>
+        <COHUMULONE>36.5</COHUMULONE>
+        <MYRCENE>52.5</MYRCENE>
+        <TOTAL_OIL>1.100000024</TOTAL_OIL>
+      </HOP>
+    </HOPS>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pale mout</NAME>
+        <NOTES>Lichte basismout voor alle biertypen.</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>4.5</AMOUNT>
+        <DISPLAY_AMOUNT>4.500 kg</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <TYPE>Grain</TYPE>
+        <YIELD>79</YIELD>
+        <COLOR>2.828872919</COLOR>
+        <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+        <ORIGIN>Duitsland</ORIGIN>
+        <SUPPLIER>Weyermann</SUPPLIER>
+        <COARSE_FINE_DIFF>2</COARSE_FINE_DIFF>
+        <MOISTURE>4</MOISTURE>
+        <DIASTATIC_POWER>6.571428776</DIASTATIC_POWER>
+        <PROTEIN>10</PROTEIN>
+        <MAX_IN_BATCH>100</MAX_IN_BATCH>
+        <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+        <DISPLAY_COLOR>6 EBC</DISPLAY_COLOR>
+        <GRAINTYPE>Base</GRAINTYPE>
+        <ADDED>Mash</ADDED>
+        <PERCENTAGE>84.1121495327103</PERCENTAGE>
+        <ADJUST_TO_TOTAL_100>FALSE</ADJUST_TO_TOTAL_100>
+        <DI_pH>5.68125532100003</DI_pH>
+        <ACID_TO_pH_5.7>0.757648005771806</ACID_TO_pH_5.7>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Cara-red</NAME>
+        <NOTES>Medium caramout. Verhoogt body en geeft een roodachtige kleur.</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.5</AMOUNT>
+        <DISPLAY_AMOUNT>0.500 kg</DISPLAY_AMOUNT>
+        <COST>3.029999971</COST>
+        <DISPLAY_COST>3.03 €</DISPLAY_COST>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <TYPE>Grain</TYPE>
+        <YIELD>77.90000153</YIELD>
+        <COLOR>19.21834183</COLOR>
+        <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+        <ORIGIN>Duitsland</ORIGIN>
+        <SUPPLIER>Weyermann</SUPPLIER>
+        <COARSE_FINE_DIFF>2</COARSE_FINE_DIFF>
+        <MOISTURE>6</MOISTURE>
+        <DIASTATIC_POWER>4.571428776</DIASTATIC_POWER>
+        <PROTEIN>11</PROTEIN>
+        <MAX_IN_BATCH>25</MAX_IN_BATCH>
+        <RECOMMEND_MASH>FALSE</RECOMMEND_MASH>
+        <DISPLAY_COLOR>50 EBC</DISPLAY_COLOR>
+        <GRAINTYPE>Crystal</GRAINTYPE>
+        <ADDED>Mash</ADDED>
+        <PERCENTAGE>9.34579439252336</PERCENTAGE>
+        <ADJUST_TO_TOTAL_100>FALSE</ADJUST_TO_TOTAL_100>
+        <DI_pH>5.12248508367134</DI_pH>
+        <ACID_TO_pH_5.7>20.8780362923066</ACID_TO_pH_5.7>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Münchner II</NAME>
+        <NOTES>Donkerder Münchenermout. Basismout in veel Duitse bierstijlen. zoals Bockbieren en Oktoberfest. Geeft een moutige smaak en aroma.</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.25</AMOUNT>
+        <DISPLAY_AMOUNT>0.250 kg</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <TYPE>Grain</TYPE>
+        <YIELD>78</YIELD>
+        <COLOR>9.157519341</COLOR>
+        <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+        <ORIGIN>Duitsland</ORIGIN>
+        <SUPPLIER>Weyermann</SUPPLIER>
+        <COARSE_FINE_DIFF>2</COARSE_FINE_DIFF>
+        <MOISTURE>3</MOISTURE>
+        <DIASTATIC_POWER>6.571428776</DIASTATIC_POWER>
+        <PROTEIN>11</PROTEIN>
+        <MAX_IN_BATCH>100</MAX_IN_BATCH>
+        <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+        <DISPLAY_COLOR>23 EBC</DISPLAY_COLOR>
+        <GRAINTYPE>Base</GRAINTYPE>
+        <ADDED>Mash</ADDED>
+        <PERCENTAGE>4.67289719626168</PERCENTAGE>
+        <ADJUST_TO_TOTAL_100>FALSE</ADJUST_TO_TOTAL_100>
+        <DI_pH>5.54</DI_pH>
+        <ACID_TO_pH_5.7>5.6</ACID_TO_pH_5.7>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Tarwevlokken</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.1</AMOUNT>
+        <DISPLAY_AMOUNT>0.100 kg</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <TYPE>Adjunct</TYPE>
+        <YIELD>80</YIELD>
+        <COLOR>1.340459704</COLOR>
+        <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+        <ORIGIN>Frankrijk</ORIGIN>
+        <SUPPLIER>Supermarkt</SUPPLIER>
+        <COARSE_FINE_DIFF>3</COARSE_FINE_DIFF>
+        <MOISTURE>4</MOISTURE>
+        <DIASTATIC_POWER>4.571428776</DIASTATIC_POWER>
+        <PROTEIN>15</PROTEIN>
+        <MAX_IN_BATCH>60</MAX_IN_BATCH>
+        <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+        <DISPLAY_COLOR>2 EBC</DISPLAY_COLOR>
+        <GRAINTYPE>No malt</GRAINTYPE>
+        <ADDED>Mash</ADDED>
+        <PERCENTAGE>1.86915887850467</PERCENTAGE>
+        <ADJUST_TO_TOTAL_100>FALSE</ADJUST_TO_TOTAL_100>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <YEASTS>
+      <YEAST>
+        <NAME>Nottingham</NAME>
+        <NOTES>Flocculente gist die ver doorgist. Produceert relatief weinig fruitige sters. Kan ook bij lagere temperatuur goed gisten.</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.011</AMOUNT>
+        <DISPLAY_AMOUNT>0 pak(ken)</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <TYPE>Ale</TYPE>
+        <FORM>Dry</FORM>
+        <AMOUNT_IS_WEIGHT>TRUE</AMOUNT_IS_WEIGHT>
+        <LABORATORY>Danstar</LABORATORY>
+        <PRODUCT_ID>-</PRODUCT_ID>
+        <MIN_TEMPERATURE>14</MIN_TEMPERATURE>
+        <MAX_TEMPERATURE>21</MAX_TEMPERATURE>
+        <FLOCCULATION>High</FLOCCULATION>
+        <ATTENUATION>75</ATTENUATION>
+        <BEST_FOR>Neutrale bovengist.</BEST_FOR>
+        <TIMES_CULTURED>0</TIMES_CULTURED>
+        <MAX_REUSE>5</MAX_REUSE>
+        <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+        <DISP_MIN_TEMP>14 °C</DISP_MIN_TEMP>
+        <DISP_MAX_TEMP>21 °C</DISP_MAX_TEMP>
+        <CULTURE_DATE>14-06-2003</CULTURE_DATE>
+        <STARTER_TYPE>Simple</STARTER_TYPE>
+        <STARTER_MADE>FALSE</STARTER_MADE>
+        <OG_STARTER>1.039999962</OG_STARTER>
+        <TIME_AERATED>24</TIME_AERATED>
+        <TEMP>20</TEMP>
+        <ZINC_ADDED>FALSE</ZINC_ADDED>
+        <AMOUNT_ZINC>0.0001</AMOUNT_ZINC>
+        <AMOUNT_YEAST>0.011</AMOUNT_YEAST>
+        <AMOUNT_EXTRACT>0.1000000015</AMOUNT_EXTRACT>
+        <COST_EXTRACT>1</COST_EXTRACT>
+      </YEAST>
+    </YEASTS>
+    <WATERS>
+      <WATER>
+        <NAME>Zutphen</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>19</AMOUNT>
+        <DISPLAY_AMOUNT>19.00 l</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <CALCIUM>66</CALCIUM>
+        <BICARBONATE>214.7200012</BICARBONATE>
+        <SULFATE>41</SULFATE>
+        <CHLORIDE>94</CHLORIDE>
+        <SODIUM>66</SODIUM>
+        <MAGNESIUM>12</MAGNESIUM>
+        <PH>8.199999809</PH>
+        <TOTAL_ALKALINITY>176</TOTAL_ALKALINITY>
+        <DEFAULT_WATER>TRUE</DEFAULT_WATER>
+      </WATER>
+    </WATERS>
+    <MASH>
+      <NAME>53, 62, 72, 78. medium body</NAME>
+      <NOTES>Driestapsmaisch met eiwitrust en directe verwarming van de maischketel. Voor bieren met veel ongemoute granen in de stort. Directe verwarming zorgt voor het warm houden en opwarmen van het beslag.</NOTES>
+      <VERSION>1</VERSION>
+      <GRAIN_TEMP>22</GRAIN_TEMP>
+      <TUN_TEMP>53.5644466795534</TUN_TEMP>
+      <SPARGE_TEMP>78</SPARGE_TEMP>
+      <SG_LAST_RUNNINGS>1.00999999</SG_LAST_RUNNINGS>
+      <PH_LAST_RUNNINGS>5.29999998956919</PH_LAST_RUNNINGS>
+      <PH>5.29999999850988</PH>
+      <TUN_WEIGHT>2</TUN_WEIGHT>
+      <TUN_SPECIFIC_HEAT>0.22</TUN_SPECIFIC_HEAT>
+      <EQUIP_ADJUST>FALSE</EQUIP_ADJUST>
+      <MASH_STEPS>
+        <MASH_STEP>
+          <NAME>Eiwitrust</NAME>
+          <VERSION>1</VERSION>
+          <TYPE>Infusion</TYPE>
+          <INFUSE_AMOUNT>19</INFUSE_AMOUNT>
+          <STEP_TEMP>53</STEP_TEMP>
+          <STEP_TIME>20</STEP_TIME>
+          <RAMP_TIME>1</RAMP_TIME>
+          <END_TEMP>53</END_TEMP>
+          <WATER_GRAIN_RATIO>3.55 l/kg</WATER_GRAIN_RATIO>
+          <DECOCTION_AMT>0.0</DECOCTION_AMT>
+          <DISPLAY_INFUSE_AMT>19.0 l</DISPLAY_INFUSE_AMT>
+          <INFUSE_TEMP>53.6 °C</INFUSE_TEMP>
+          <DISPLAY_STEP_TEMP>53.0 °C</DISPLAY_STEP_TEMP>
+          <PH>5.300000191</PH>
+        </MASH_STEP>
+        <MASH_STEP>
+          <NAME>Beta-amylase</NAME>
+          <VERSION>1</VERSION>
+          <TYPE>Temperature</TYPE>
+          <STEP_TEMP>63</STEP_TEMP>
+          <STEP_TIME>30</STEP_TIME>
+          <RAMP_TIME>20</RAMP_TIME>
+          <END_TEMP>63</END_TEMP>
+          <WATER_GRAIN_RATIO>0.00 l/kg</WATER_GRAIN_RATIO>
+          <DECOCTION_AMT>0.0</DECOCTION_AMT>
+          <DISPLAY_STEP_TEMP>63.0 °C</DISPLAY_STEP_TEMP>
+          <PH>5.300000191</PH>
+        </MASH_STEP>
+        <MASH_STEP>
+          <NAME>Alfa-amylase</NAME>
+          <VERSION>1</VERSION>
+          <TYPE>Temperature</TYPE>
+          <STEP_TEMP>72</STEP_TEMP>
+          <STEP_TIME>30</STEP_TIME>
+          <RAMP_TIME>15</RAMP_TIME>
+          <END_TEMP>72</END_TEMP>
+          <WATER_GRAIN_RATIO>0.00 l/kg</WATER_GRAIN_RATIO>
+          <DECOCTION_AMT>0.0</DECOCTION_AMT>
+          <DISPLAY_STEP_TEMP>72.0 °C</DISPLAY_STEP_TEMP>
+          <PH>5.300000191</PH>
+        </MASH_STEP>
+        <MASH_STEP>
+          <NAME>Uitmaischen</NAME>
+          <VERSION>1</VERSION>
+          <TYPE>Temperature</TYPE>
+          <STEP_TEMP>78</STEP_TEMP>
+          <STEP_TIME>5</STEP_TIME>
+          <RAMP_TIME>10</RAMP_TIME>
+          <END_TEMP>78</END_TEMP>
+          <WATER_GRAIN_RATIO>0.00 l/kg</WATER_GRAIN_RATIO>
+          <DECOCTION_AMT>0.0</DECOCTION_AMT>
+          <DISPLAY_STEP_TEMP>78.0 °C</DISPLAY_STEP_TEMP>
+          <PH>5.300000191</PH>
+        </MASH_STEP>
+      </MASH_STEPS>
+    </MASH>
+    <OG>1</OG>
+    <FG>1</FG>
+    <FERMENTATION_STAGES>0</FERMENTATION_STAGES>
+    <PRIMARY_TEMP>20</PRIMARY_TEMP>
+    <DATE>14-03-2015</DATE>
+    <CARBONATION>3</CARBONATION>
+    <FORCED_CARBONATION>FALSE</FORCED_CARBONATION>
+    <IBU_METHOD>Rager</IBU_METHOD>
+    <EST_ABV>5.49879106131544</EST_ABV>
+    <ABV>7.62811967044566</ABV>
+    <DISPLAY_BATCH_SIZE>21.0 l</DISPLAY_BATCH_SIZE>
+    <DISPLAY_BOIL_SIZE>23.0 l</DISPLAY_BOIL_SIZE>
+    <COLOR_METHOD>Morey</COLOR_METHOD>
+    <NR_RECIPE>6</NR_RECIPE>
+    <ACID_SPARGE_PERC>80</ACID_SPARGE_PERC>
+    <SPARGE_ACID_TYPE>Lactic</SPARGE_ACID_TYPE>
+    <TARGET_PH>5.4</TARGET_PH>
+    <SG_END_MASH>1</SG_END_MASH>
+    <SPARGE_WATER_COMP>0</SPARGE_WATER_COMP>
+    <OG_BEFORE_BOIL>1</OG_BEFORE_BOIL>
+    <OG_FERMENTER>1.05875078517523</OG_FERMENTER>
+    <COOLING_METHOD>-</COOLING_METHOD>
+    <AERATION_TYPE>None</AERATION_TYPE>
+    <SG_END_PRIMARY>1</SG_END_PRIMARY>
+    <START_TEMP_PRIMARY>19</START_TEMP_PRIMARY>
+    <MAX_TEMP_PRIMARY>21</MAX_TEMP_PRIMARY>
+    <END_TEMP_PRIMARY>20</END_TEMP_PRIMARY>
+    <CARBONATION>3</CARBONATION>
+    <FORCED_CARB_KEGS>TRUE</FORCED_CARB_KEGS>
+    <INVENTORY_REDUCED>FALSE</INVENTORY_REDUCED>
+    <LOCKED>FALSE</LOCKED>
+    <PRIMING_SUGAR_BOTTLES>Saccharose</PRIMING_SUGAR_BOTTLES>
+    <PRIMING_SUGAR_KEGS>Saccharose</PRIMING_SUGAR_KEGS>
+    <BATCH_DIVIDED>-1</BATCH_DIVIDED>
+    <BATCH_DIVISION>-1</BATCH_DIVISION>
+    <DIVIDED_FROM>0</DIVIDED_FROM>
+    <CALC_ACID>FALSE</CALC_ACID>
+  </RECIPE>
+  <RECIPE>
+    <NAME>First Burghausen Ale</NAME>
+    <VERSION>1</VERSION>
+    <TYPE>All Grain</TYPE>
+    <STYLE>
+      <NAME>Amerikaanse IPA</NAME>
+      <NOTES>Amerikaanse variant van de Engelse IPA. Zwaarder. bitterder en met meer hoparoma's dan de Britse tegenhanger. Sterk gehopt met Amerikaanse citrushoppen.</NOTES>
+      <VERSION>1</VERSION>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.055999994</OG_MIN>
+      <OG_MAX>1.075000048</OG_MAX>
+      <FG_MIN>1.00999999</FG_MIN>
+      <FG_MAX>1.018000007</FG_MAX>
+      <IBU_MIN>40</IBU_MIN>
+      <IBU_MAX>70</IBU_MAX>
+      <COLOR_MIN>6.178752899</COLOR_MIN>
+      <COLOR_MAX>11.76477814</COLOR_MAX>
+      <CARB_MIN>2</CARB_MIN>
+      <CARB_MAX>2.5</CARB_MAX>
+      <ABV_MIN>5.5</ABV_MIN>
+      <ABV_MAX>7.5</ABV_MAX>
+      <PROFILE>Gedomineerd door bitterheid en aroma's van Amerikaanse hopsoorten.</PROFILE>
+      <INGREDIENTS>Pale mout. Amerikaanse hopsoorten. cleane. Amerikaanse gist.</INGREDIENTS>
+      <EXAMPLES>Sierra Nevada Pale Ale.</EXAMPLES>
+      <DISPLAY_OG_MIN>1.056 SG</DISPLAY_OG_MIN>
+      <DISPLAY_OG_MAX>1.075 SG</DISPLAY_OG_MAX>
+      <DISPLAY_FG_MIN>1.010 SG</DISPLAY_FG_MIN>
+      <DISPLAY_FG_MAX>1.018 SG</DISPLAY_FG_MAX>
+      <DISPLAY_IBU_MIN>40 IBU</DISPLAY_IBU_MIN>
+      <DISPLAY_IBU_MAX>70 IBU</DISPLAY_IBU_MAX>
+      <DISPLAY_COLOR_MIN>15 EBC</DISPLAY_COLOR_MIN>
+      <DISPLAY_COLOR_MAX>30 EBC</DISPLAY_COLOR_MAX>
+      <DISPLAY_CARB_MIN>2.0 vol.</DISPLAY_CARB_MIN>
+      <DISPLAY_CARB_MAX>2.5 vol.</DISPLAY_CARB_MAX>
+      <DISPLAY_ABV_MIN>5.5 vol.%</DISPLAY_ABV_MIN>
+      <DISPLAY_ABV_MAX>7.5 vol.%</DISPLAY_ABV_MAX>
+      <OG_RANGE>1.056-1.075 SG</OG_RANGE>
+      <FG_RANGE>1.010-1.018 SG</FG_RANGE>
+      <IBU_RANGE>40-70 IBU</IBU_RANGE>
+      <CARB_RANGE>2.0-2.5 vol.</CARB_RANGE>
+      <COLOR_RANGE>6-12 EBC</COLOR_RANGE>
+      <ABV_RANGE>5.5-7.5 vol.%</ABV_RANGE>
+    </STYLE>
+    <EQUIPMENT>
+      <NAME>Lidl einkocher</NAME>
+      <VERSION>1</VERSION>
+      <BOIL_SIZE>25</BOIL_SIZE>
+      <BATCH_SIZE>22</BATCH_SIZE>
+      <TUN_VOLUME>30</TUN_VOLUME>
+      <TUN_WEIGHT>2</TUN_WEIGHT>
+      <TUN_SPECIFIC_HEAT>0.22</TUN_SPECIFIC_HEAT>
+      <TRUB_CHILLER_LOSS>2</TRUB_CHILLER_LOSS>
+      <EVAP_RATE>10</EVAP_RATE>
+      <BOIL_TIME>90</BOIL_TIME>
+      <CALC_BOIL_VOLUME>TRUE</CALC_BOIL_VOLUME>
+      <LAUTER_DEADSPACE>2.69230769230769</LAUTER_DEADSPACE>
+      <HOP_UTILIZATION>100</HOP_UTILIZATION>
+      <DISPLAY_BOIL_SIZE>25.0 l</DISPLAY_BOIL_SIZE>
+      <DISPLAY_BATCH_SIZE>22.0 l</DISPLAY_BATCH_SIZE>
+      <DISPLAY_TUN_VOLUME>30.0 l</DISPLAY_TUN_VOLUME>
+      <DISPLAY_TUN_WEIGHT>2.00 kg</DISPLAY_TUN_WEIGHT>
+      <DISPLAY_TRUB_CHILLER_LOSS>2.0 l</DISPLAY_TRUB_CHILLER_LOSS>
+      <DISPLAY_LAUTERDEADSPACE>2.7 l</DISPLAY_LAUTERDEADSPACE>
+      <LAUTER_VOLUME>20</LAUTER_VOLUME>
+      <KETTLE_VOLUME>27</KETTLE_VOLUME>
+      <TUN_MATERIAL>Aluminium</TUN_MATERIAL>
+      <TUN_HEIGHT>0.4</TUN_HEIGHT>
+      <KETTLE_HEIGHT>0.3</KETTLE_HEIGHT>
+      <LAUTER_HEIGHT>0.2</LAUTER_HEIGHT>
+      <MASH_VOLUME>18</MASH_VOLUME>
+      <EFFICIENCY>75</EFFICIENCY>
+      <ATTENUATION_FACTOR_YEAST>0.00825</ATTENUATION_FACTOR_YEAST>
+      <ATTENUATION_FACTOR_WATER_TO_GRAIN_RATIO>0.00817</ATTENUATION_FACTOR_WATER_TO_GRAIN_RATIO>
+      <ATTENUATION_FACTOR_TOTAL_MASH_TIME>0.00026</ATTENUATION_FACTOR_TOTAL_MASH_TIME>
+      <ATTENUATION_FACTOR_PERC_SIMPLE_SUGAR>0.00553</ATTENUATION_FACTOR_PERC_SIMPLE_SUGAR>
+      <ATTENUATION_FACTOR_CONSTANT>0.547</ATTENUATION_FACTOR_CONSTANT>
+    </EQUIPMENT>
+    <BATCH_SIZE>20</BATCH_SIZE>
+    <BOIL_SIZE>22.5</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>78</EFFICIENCY>
+    <HOPS>
+      <HOP>
+        <NAME>Lemondrop</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.0149352116336725</AMOUNT>
+        <DISPLAY_AMOUNT>14.9 g</DISPLAY_AMOUNT>
+        <INVENTORY>400.0 g</INVENTORY>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>4.9</ALPHA>
+        <TIME>60</TIME>
+        <TYPE>Aroma</TYPE>
+        <FORM>Pellet</FORM>
+        <USE>First wort</USE>
+        <ORIGIN>V.S.</ORIGIN>
+        <DISPLAY_TIME>60 min.</DISPLAY_TIME>
+        <HARVEST_DATE>01-09-2016</HARVEST_DATE>
+      </HOP>
+      <HOP>
+        <NAME>Amarillo</NAME>
+        <NOTES>Onbekende afkomst. maar lijkt op Cascade.  Voor bitteren en aroma.
+Gebruik: Amerikaanse IPAs, Ales
+Aroma: Citrus, bloemig</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.0149352116336724</AMOUNT>
+        <DISPLAY_AMOUNT>14.9 g</DISPLAY_AMOUNT>
+        <INVENTORY>100.0 g</INVENTORY>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>8.9</ALPHA>
+        <TIME>60</TIME>
+        <TYPE>Aroma</TYPE>
+        <FORM>Leaf</FORM>
+        <USE>First wort</USE>
+        <BETA>6</BETA>
+        <HSI>20</HSI>
+        <ORIGIN>V.S.</ORIGIN>
+        <SUBSTITUTES>Cascade. Centennial</SUBSTITUTES>
+        <HUMULENE>10</HUMULENE>
+        <CAROPHYLLENE>3</CAROPHYLLENE>
+        <COHUMULONE>22.5</COHUMULONE>
+        <MYRCENE>69</MYRCENE>
+        <DISPLAY_TIME>60 min.</DISPLAY_TIME>
+        <TOTAL_OIL>1.7</TOTAL_OIL>
+      </HOP>
+      <HOP>
+        <NAME>Equinox</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.015</AMOUNT>
+        <DISPLAY_AMOUNT>15.0 g</DISPLAY_AMOUNT>
+        <INVENTORY>100.0 g</INVENTORY>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>13.9</ALPHA>
+        <TIME>20</TIME>
+        <TYPE>Bittering</TYPE>
+        <FORM>Pellet</FORM>
+        <USE>Boil</USE>
+        <ORIGIN>V.S.</ORIGIN>
+        <DISPLAY_TIME>20 min.</DISPLAY_TIME>
+        <HARVEST_DATE>01-09-2016</HARVEST_DATE>
+      </HOP>
+      <HOP>
+        <NAME>Lemondrop</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.035</AMOUNT>
+        <DISPLAY_AMOUNT>35.0 g</DISPLAY_AMOUNT>
+        <INVENTORY>400.0 g</INVENTORY>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>4.9</ALPHA>
+        <TIME>5</TIME>
+        <TYPE>Aroma</TYPE>
+        <FORM>Pellet</FORM>
+        <USE>Boil</USE>
+        <ORIGIN>V.S.</ORIGIN>
+        <DISPLAY_TIME>5 min.</DISPLAY_TIME>
+        <HARVEST_DATE>01-09-2016</HARVEST_DATE>
+      </HOP>
+      <HOP>
+        <NAME>Amarillo</NAME>
+        <NOTES>Onbekende afkomst. maar lijkt op Cascade.  Voor bitteren en aroma.
+Gebruik: Amerikaanse IPAs, Ales
+Aroma: Citrus, bloemig</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.025</AMOUNT>
+        <DISPLAY_AMOUNT>25.0 g</DISPLAY_AMOUNT>
+        <INVENTORY>100.0 g</INVENTORY>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <ALPHA>8.9</ALPHA>
+        <TIME>5</TIME>
+        <TYPE>Aroma</TYPE>
+        <FORM>Leaf</FORM>
+        <USE>Boil</USE>
+        <BETA>6</BETA>
+        <HSI>20</HSI>
+        <ORIGIN>V.S.</ORIGIN>
+        <SUBSTITUTES>Cascade. Centennial</SUBSTITUTES>
+        <HUMULENE>10</HUMULENE>
+        <CAROPHYLLENE>3</CAROPHYLLENE>
+        <COHUMULONE>22.5</COHUMULONE>
+        <MYRCENE>69</MYRCENE>
+        <DISPLAY_TIME>5 min.</DISPLAY_TIME>
+        <TOTAL_OIL>1.7</TOTAL_OIL>
+      </HOP>
+    </HOPS>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pale mout</NAME>
+        <NOTES>Lichte basismout voor alle biertypen.</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>4.5</AMOUNT>
+        <DISPLAY_AMOUNT>4.500 kg</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <TYPE>Grain</TYPE>
+        <YIELD>79</YIELD>
+        <COLOR>2.828872919</COLOR>
+        <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+        <ORIGIN>Duitsland</ORIGIN>
+        <SUPPLIER>Weyermann</SUPPLIER>
+        <COARSE_FINE_DIFF>2</COARSE_FINE_DIFF>
+        <MOISTURE>4</MOISTURE>
+        <DIASTATIC_POWER>6.571428776</DIASTATIC_POWER>
+        <PROTEIN>10</PROTEIN>
+        <MAX_IN_BATCH>100</MAX_IN_BATCH>
+        <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+        <DISPLAY_COLOR>6 EBC</DISPLAY_COLOR>
+        <GRAINTYPE>Base</GRAINTYPE>
+        <ADDED>Mash</ADDED>
+        <PERCENTAGE>85.7142857142857</PERCENTAGE>
+        <ADJUST_TO_TOTAL_100>FALSE</ADJUST_TO_TOTAL_100>
+        <DI_pH>5.68125532100003</DI_pH>
+        <ACID_TO_pH_5.7>0.757648005771806</ACID_TO_pH_5.7>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Cara-red</NAME>
+        <NOTES>Medium caramout. Verhoogt body en geeft een roodachtige kleur.</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.5</AMOUNT>
+        <DISPLAY_AMOUNT>0.500 kg</DISPLAY_AMOUNT>
+        <COST>3.029999971</COST>
+        <DISPLAY_COST>3.03 €</DISPLAY_COST>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <TYPE>Grain</TYPE>
+        <YIELD>77.90000153</YIELD>
+        <COLOR>19.21834183</COLOR>
+        <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+        <ORIGIN>Duitsland</ORIGIN>
+        <SUPPLIER>Weyermann</SUPPLIER>
+        <COARSE_FINE_DIFF>2</COARSE_FINE_DIFF>
+        <MOISTURE>6</MOISTURE>
+        <DIASTATIC_POWER>4.571428776</DIASTATIC_POWER>
+        <PROTEIN>11</PROTEIN>
+        <MAX_IN_BATCH>25</MAX_IN_BATCH>
+        <RECOMMEND_MASH>FALSE</RECOMMEND_MASH>
+        <DISPLAY_COLOR>50 EBC</DISPLAY_COLOR>
+        <GRAINTYPE>Crystal</GRAINTYPE>
+        <ADDED>Mash</ADDED>
+        <PERCENTAGE>9.52380952380952</PERCENTAGE>
+        <ADJUST_TO_TOTAL_100>FALSE</ADJUST_TO_TOTAL_100>
+        <DI_pH>5.12248508367134</DI_pH>
+        <ACID_TO_pH_5.7>20.8780362923066</ACID_TO_pH_5.7>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Münchner II</NAME>
+        <NOTES>Donkerder Münchenermout. Basismout in veel Duitse bierstijlen. zoals Bockbieren en Oktoberfest. Geeft een moutige smaak en aroma.</NOTES>
+        <VERSION>1</VERSION>
+        <AMOUNT>0.25</AMOUNT>
+        <DISPLAY_AMOUNT>0.250 kg</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <TYPE>Grain</TYPE>
+        <YIELD>78</YIELD>
+        <COLOR>9.157519341</COLOR>
+        <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+        <ORIGIN>Duitsland</ORIGIN>
+        <SUPPLIER>Weyermann</SUPPLIER>
+        <COARSE_FINE_DIFF>2</COARSE_FINE_DIFF>
+        <MOISTURE>3</MOISTURE>
+        <DIASTATIC_POWER>6.571428776</DIASTATIC_POWER>
+        <PROTEIN>11</PROTEIN>
+        <MAX_IN_BATCH>100</MAX_IN_BATCH>
+        <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+        <DISPLAY_COLOR>23 EBC</DISPLAY_COLOR>
+        <GRAINTYPE>Base</GRAINTYPE>
+        <ADDED>Mash</ADDED>
+        <PERCENTAGE>4.76190476190476</PERCENTAGE>
+        <ADJUST_TO_TOTAL_100>FALSE</ADJUST_TO_TOTAL_100>
+        <DI_pH>5.54</DI_pH>
+        <ACID_TO_pH_5.7>5.6</ACID_TO_pH_5.7>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <YEASTS/>
+    <WATERS>
+      <WATER>
+        <NAME>Zutphen</NAME>
+        <VERSION>1</VERSION>
+        <AMOUNT>19</AMOUNT>
+        <DISPLAY_AMOUNT>19.00 l</DISPLAY_AMOUNT>
+        <ALWAYS_ON_STOCK>FALSE</ALWAYS_ON_STOCK>
+        <CALCIUM>66</CALCIUM>
+        <BICARBONATE>214.7200012</BICARBONATE>
+        <SULFATE>41</SULFATE>
+        <CHLORIDE>94</CHLORIDE>
+        <SODIUM>66</SODIUM>
+        <MAGNESIUM>12</MAGNESIUM>
+        <PH>8.199999809</PH>
+        <TOTAL_ALKALINITY>176</TOTAL_ALKALINITY>
+        <DEFAULT_WATER>TRUE</DEFAULT_WATER>
+      </WATER>
+    </WATERS>
+    <MASH>
+      <VERSION>1</VERSION>
+      <GRAIN_TEMP>10</GRAIN_TEMP>
+      <TUN_TEMP>54.8469510580838</TUN_TEMP>
+      <SPARGE_TEMP>78</SPARGE_TEMP>
+      <SG_LAST_RUNNINGS>1.06</SG_LAST_RUNNINGS>
+      <PH_LAST_RUNNINGS>6</PH_LAST_RUNNINGS>
+      <PH>6</PH>
+      <TUN_WEIGHT>2</TUN_WEIGHT>
+      <TUN_SPECIFIC_HEAT>0.22</TUN_SPECIFIC_HEAT>
+      <EQUIP_ADJUST>FALSE</EQUIP_ADJUST>
+      <MASH_STEPS>
+        <MASH_STEP>
+          <NAME>Dough in</NAME>
+          <VERSION>1</VERSION>
+          <TYPE>Infusion</TYPE>
+          <INFUSE_AMOUNT>19</INFUSE_AMOUNT>
+          <STEP_TEMP>53</STEP_TEMP>
+          <STEP_TIME>15</STEP_TIME>
+          <RAMP_TIME>30</RAMP_TIME>
+          <END_TEMP>53</END_TEMP>
+          <WATER_GRAIN_RATIO>3.62 l/kg</WATER_GRAIN_RATIO>
+          <DECOCTION_AMT>0.0</DECOCTION_AMT>
+          <DISPLAY_INFUSE_AMT>19.0 l</DISPLAY_INFUSE_AMT>
+          <INFUSE_TEMP>54.8 °C</INFUSE_TEMP>
+          <DISPLAY_STEP_TEMP>53.0 °C</DISPLAY_STEP_TEMP>
+          <PH>5.3</PH>
+        </MASH_STEP>
+        <MASH_STEP>
+          <NAME>Beta-amylase</NAME>
+          <VERSION>1</VERSION>
+          <TYPE>Temperature</TYPE>
+          <STEP_TEMP>63</STEP_TEMP>
+          <STEP_TIME>30</STEP_TIME>
+          <RAMP_TIME>1</RAMP_TIME>
+          <END_TEMP>63</END_TEMP>
+          <WATER_GRAIN_RATIO>0.00 l/kg</WATER_GRAIN_RATIO>
+          <DECOCTION_AMT>0.0</DECOCTION_AMT>
+          <DISPLAY_STEP_TEMP>63.0 °C</DISPLAY_STEP_TEMP>
+          <PH>5.3</PH>
+        </MASH_STEP>
+        <MASH_STEP>
+          <NAME>Alfa-amylase</NAME>
+          <VERSION>1</VERSION>
+          <TYPE>Temperature</TYPE>
+          <STEP_TEMP>73</STEP_TEMP>
+          <STEP_TIME>30</STEP_TIME>
+          <RAMP_TIME>1</RAMP_TIME>
+          <END_TEMP>73</END_TEMP>
+          <WATER_GRAIN_RATIO>0.00 l/kg</WATER_GRAIN_RATIO>
+          <DECOCTION_AMT>0.0</DECOCTION_AMT>
+          <DISPLAY_STEP_TEMP>73.0 °C</DISPLAY_STEP_TEMP>
+          <PH>5.3</PH>
+        </MASH_STEP>
+        <MASH_STEP>
+          <NAME>Mesh out</NAME>
+          <VERSION>1</VERSION>
+          <TYPE>Temperature</TYPE>
+          <STEP_TEMP>78</STEP_TEMP>
+          <STEP_TIME>5</STEP_TIME>
+          <RAMP_TIME>1</RAMP_TIME>
+          <END_TEMP>78</END_TEMP>
+          <WATER_GRAIN_RATIO>0.00 l/kg</WATER_GRAIN_RATIO>
+          <DECOCTION_AMT>0.0</DECOCTION_AMT>
+          <DISPLAY_STEP_TEMP>78.0 °C</DISPLAY_STEP_TEMP>
+          <PH>5.3</PH>
+        </MASH_STEP>
+      </MASH_STEPS>
+    </MASH>
+    <OG>1</OG>
+    <FG>1</FG>
+    <FERMENTATION_STAGES>0</FERMENTATION_STAGES>
+    <DATE>13-11-2016</DATE>
+    <FORCED_CARBONATION>FALSE</FORCED_CARBONATION>
+    <IBU_METHOD>Rager</IBU_METHOD>
+    <EST_ABV>5.69497296871967</EST_ABV>
+    <ABV>7.75798768053789</ABV>
+    <DISPLAY_BATCH_SIZE>20.0 l</DISPLAY_BATCH_SIZE>
+    <DISPLAY_BOIL_SIZE>22.5 l</DISPLAY_BOIL_SIZE>
+    <COLOR_METHOD>Morey</COLOR_METHOD>
+    <NR_RECIPE>7</NR_RECIPE>
+    <ACID_SPARGE_PERC>80</ACID_SPARGE_PERC>
+    <SPARGE_ACID_TYPE>Lactic</SPARGE_ACID_TYPE>
+    <PH_ADJUSTED>5.3</PH_ADJUSTED>
+    <TARGET_PH>5.4</TARGET_PH>
+    <SG_END_MASH>1.051</SG_END_MASH>
+    <SPARGE_WATER_COMP>0</SPARGE_WATER_COMP>
+    <OG_BEFORE_BOIL>1.051</OG_BEFORE_BOIL>
+    <OG_FERMENTER>1.05975101169129</OG_FERMENTER>
+    <COOLING_METHOD>Emersion chiller</COOLING_METHOD>
+    <AERATION_TYPE>None</AERATION_TYPE>
+    <SG_END_PRIMARY>1</SG_END_PRIMARY>
+    <FORCED_CARB_KEGS>FALSE</FORCED_CARB_KEGS>
+    <INVENTORY_REDUCED>FALSE</INVENTORY_REDUCED>
+    <LOCKED>FALSE</LOCKED>
+    <PRIMING_SUGAR_BOTTLES>Saccharose</PRIMING_SUGAR_BOTTLES>
+    <PRIMING_SUGAR_KEGS>Saccharose</PRIMING_SUGAR_KEGS>
+    <BATCH_DIVIDED>-1</BATCH_DIVIDED>
+    <BATCH_DIVISION>-1</BATCH_DIVISION>
+    <DIVIDED_FROM>0</DIVIDED_FROM>
+    <CALC_ACID>FALSE</CALC_ACID>
+  </RECIPE>
+</RECIPES>
